@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.pull-right {
+  float: right;
+}
+
+.list-inline {
+  display: flex;
+  justify-content: space-around;
+}
